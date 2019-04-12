@@ -2,7 +2,7 @@
   "name": "reedniv.com",
   "short_name": "Reedniv",
   "lang": "id",
-  "start_url": "https://reedniv.blogspot.com/",
+  "start_url": "https://reedniv.blogspot.com",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#00897b",
@@ -36,6 +36,11 @@
 {
     "src": "https://1.bp.blogspot.com/-JUsN6jGXvxA/XLDorbq1wII/AAAAAAAABT4/Uwwp2u9yezwkh43Pymcf1a_LLrVZalL8ACLcBGAs/s192/android-icon-192x192.png",
     "sizes": "192x192",
+    "type": "image/png"
+  },
+{
+    "src": "https://1.bp.blogspot.com/-JUsN6jGXvxA/XLDorbq1wII/AAAAAAAABT4/Uwwp2u9yezwkh43Pymcf1a_LLrVZalL8ACLcBGAs/s256/android-icon-256x256.png",
+    "sizes": "256x256",
     "type": "image/png"
   },
 {
