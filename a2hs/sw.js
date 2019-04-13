@@ -8,7 +8,7 @@ self.addEventListener('install', function(e) {
 
        '/manifest/a2hs/',
        
-       '/manifest/a2hs/index.js',
+       '/manifest/a2hs/stable.js',
 
        '/manifest/a2hs/style.css'
 
