@@ -14,23 +14,7 @@ html, body {
 
 }
 
-@keyframes fadeOut {
 
-	to {		opacity: 0;
-
-	}
-
-}
-
-@-webkit-keyframes fadeOut {
-
-	to {
-
-		opacity: 0;
-
-	}
-
-}
 
 .isPaused {
 
