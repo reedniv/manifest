@@ -1,12 +1,6 @@
 {
-  "name": "reedniv.com",
   "short_name": "Reedniv",
-  "lang": "id",
-  "start_url": "https://reedniv.blogspot.com/?utm_source=webapp&utm_medium=android&utm_campaign=webapp",
-  "display": "standalone",
-  "background_color": "#fff",
-  "theme_color": "#00897b",
-  "description": "Tempat Berbagai Tutorials Seputar Blogging",
+  "name": "Reedniv - Tempat Berbagai Tutorials Seputar Blogging",
   "icons": [
 {
     "src": "https://1.bp.blogspot.com/-JUsN6jGXvxA/XLDorbq1wII/AAAAAAAABT4/Uwwp2u9yezwkh43Pymcf1a_LLrVZalL8ACLcBGAs/s48/android-icon-48x48.png",
@@ -48,5 +42,9 @@
     "sizes": "512x512",
     "type": "image/png"
   }
-]
-}
+],
+  "background_color": "#FFFFFF",
+  "theme_color": "#00897b",
+  "display": "standalone",
+  "start_url": "https://reedniv.blogspot.com/?utm_source=webapp&utm_medium=android&utm_campaign=webapp"
+ }
