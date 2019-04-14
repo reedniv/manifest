@@ -46,5 +46,5 @@
   "background_color": "#FFFFFF",
   "theme_color": "#00897b",
   "display": "standalone",
-  "start_url": "https://reedniv.blogspot.com/?utm_source=webapp&utm_medium=android&utm_campaign=webapp"
- }
+  "start_url": "/?utm_source=launcher"
+}
